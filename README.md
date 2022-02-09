@@ -12,8 +12,8 @@
 * [Experience](#Experience)
 * [Education](#Education)
 * [Technical Skills](#Technical-Skills)
-* [Leadership & Involvement](#Leadership-&-Involvement)
-* [Honors & Awards](#Honors-&-Awards)
+* [Leadership & Involvement](#Leadership--Involvement)
+* [Honors & Awards](#Honors--Awards)
 
 ---
 
